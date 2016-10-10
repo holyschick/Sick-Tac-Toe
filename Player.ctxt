@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=void\ paintMajor()
+comment2.params=row\ col
+comment2.target=void\ paintMinor(int,\ int)
+numComments=3

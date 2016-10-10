@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Square()
+comment0.text=Constructor\ to\ initialize\ this\ Square
+comment1.params=s
+comment1.target=void\ set(java.lang.String)
+comment1.text=Set\ the\ Square\ content\ to\ param
+comment2.params=
+comment2.target=java.lang.String\ get()
+comment2.text=Get\ the\ Square\ content
+comment3.params=
+comment3.target=void\ clear()
+comment3.text=Clear\ the\ Square\ content\ to\ EMPTY
+comment4.params=
+comment4.target=void\ paint()
+comment4.text=Paint\ itself
+numComments=5

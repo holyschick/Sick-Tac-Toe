@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SubBoard()
+comment0.text=Constructor\ to\ initialize\ the\ game\ board\ as\ empty
+comment1.params=
+comment1.target=void\ init()
+comment1.text=Initialize\ (or\ re-initialize)\ the\ contents\ of\ the\ game\ board
+comment2.params=
+comment2.target=boolean\ isTieGame()
+comment2.text=Return\ true\ if\ it\ is\ a\ tie\ game\ (i.e.,\ no\ more\ EMPTY\ square)
+comment3.params=nextToken\ currentRow\ currentCol
+comment3.target=boolean\ hasWon(java.lang.String,\ int,\ int)
+comment3.text=\ Return\ true\ if\ the\ player\ with\ "nextToken"\ has\ won\ after\ placing\ at\n(currentRow,\ currentCol)
+comment4.params=
+comment4.target=void\ paint()
+comment4.text=Paint\ entire\ board\ to\ console\ window
+comment5.params=
+comment5.target=java.lang.String\ get()
+numComments=6
