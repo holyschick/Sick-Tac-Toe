@@ -7,7 +7,7 @@ public class SubBoard {  // save as Board.java
     public static final int COLS = 3;
 
     // package access
-    Square[][] myBoard;  // a board composed of ROWS-by-COLS Strings
+    Square[][] minor;  // a board composed of ROWS-by-COLS Strings
     
     private String winner;
 

@@ -53,12 +53,12 @@ public class Player
             for (int col = 0; col < COLS; ++col) {
                 int x1 = col * SQUARE_SIZE + SQUARE_CENTER;
                 int y1 = (2-row) * SQUARE_SIZE + SQUARE_CENTER-HEADER/3;  // invert y scale
-                if (game.board[row][col].get() == fill[1]) 
+                if (game.mega[row][col].get() == fill[1]) 
                 {
                     StdDraw.setPenColor(StdDraw.RED);             // red EX
                     StdDraw.text(x1 , y1 , "X");
                 } 
-                else if (game.board[row][col].get() == fill[2]) 
+                else if (game.mega[row][col].get() == fill[2]) 
                 {
                     StdDraw.setPenColor(StdDraw.BLUE);            // blue OH
                     StdDraw.text(x1 , y1 , "O");

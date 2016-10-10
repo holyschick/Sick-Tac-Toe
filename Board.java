@@ -2,7 +2,7 @@
 public class Board
 {
     
-    SubBoard[][] board;
+    SubBoard[][] mega;
     
     private String winner;
     
